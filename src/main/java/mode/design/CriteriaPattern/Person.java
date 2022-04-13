@@ -1,4 +1,4 @@
-package mode.design.FilterPattern;
+package mode.design.CriteriaPattern;
 
 /**
  * @time 2022/4/13 11:51 上午

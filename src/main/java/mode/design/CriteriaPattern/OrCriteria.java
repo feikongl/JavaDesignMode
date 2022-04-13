@@ -1,4 +1,4 @@
-package mode.design.FilterPattern;
+package mode.design.CriteriaPattern;
 
 import java.util.List;
 
